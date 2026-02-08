@@ -6,36 +6,64 @@ function About() {
     <div className="about-page">
       <h1>About Us</h1>
       <p>
-        SKAI_Kolathur branch was started in 2011 by Sensei K. Manikandan (4th
+        {/* SKAI_Kolathur branch was started in 2011 by Sensei K. Manikandan (4th
         Dan, KIO - National Judge) under the guidance of Shihan B. Duraivelu,
         with the mission of promoting Karate as a way of life. SKAI_Kolathur is
         a proud branch of the Shuhari Karate Association of India (SKAI Karate),
         founded by four directors - Shihan B. Duraivelu, Shihan G. Gajendran,
-        Shihan N. Pandian, and Shihan B. Loganathan.
+        Shihan N. Pandian, and Shihan B. Loganathan. */}
+        Meishin Karate Association of Integrity (MKAI) was founded in 2011 in
+        Kolathur by Sensei K. Manikandan (4th Dan, KIO – National Judge), who
+        serves as the President and Founder of MKAI Karate. With a vision to
+        promote Karate as a way of life, MKAI has grown from humble beginnings
+        with a few passionate students into a respected karate academy dedicated
+        to nurturing discipline, confidence, and character in practitioners of
+        all ages.s the guiding force of MKAI Karate, Sensei K. Manikandan brings
+        years of dedicated experience in both traditional and competitive
+        Karate. He trains students to develop discipline, precision, and mental
+        strength, inspiring them to achieve their full potential both on and off
+        the mat.
       </p>
       <img src="/about/1.JPG" alt="About Karate" className="about-img" />
 
       <p>
-        Sensei K. Manikandan is the founder and guiding force of our dojo. With
+        {/* Sensei K. Manikandan is the founder and guiding force of our dojo. With
         years of dedicated experience in Karate, he trains students in
         discipline, technique, and character, inspiring them to reach their full
-        potential both on and off the mat.
+        potential both on and off the mat. */}
+        Our dojo began in Kolathur in 2011, where each class focused on building
+        skill, confidence, and self-discipline. Through dedication, passion, and
+        a commitment to quality training, MKAI Karate has steadily grown and now
+        serves students across multiple branches in Chennai and surrounding
+        areas.
       </p>
-      <img src="/about/2.JPG" alt="Sensei K. Manikandan" className="about-img" />
+      <img
+        src="/about/2.JPG"
+        alt="Sensei K. Manikandan"
+        className="about-img"
+      />
 
       <p>
-        Our journey began humbly in Kolathur with just a few students, where
+        {/* Our journey began humbly in Kolathur with just a few students, where
         each class was a step toward building discipline, skill, and confidence.
         Through passion, dedication, and a focus on quality training, the dojo
         steadily grew, and today we proudly operate 8 branches across Chennai
         and its surroundings.
-      <br/>
+        <br />
         The growth of TEAM SKAI_KOLATHUR is powered by our committed team of
         Assistant Instructors. With their expertise and dedication, they guide
         students to excel in Karate while nurturing values of confidence, focus,
         and respect.
-        <br />
-        <h2>Our Assistant Instructors</h2>
+        <br /> */}
+        The success and growth of MKAI Karate are made possible by our dedicated
+        team of Assistant Instructors, who play a vital role in training,
+        mentoring, and guiding students. Each instructor brings specialized
+        expertise and a commitment to nurturing the next generation of martial
+        artists. Together, they ensure that students not only develop technical
+        skills but also learn important life values such as respect,
+        perseverance, focus, and confidence.
+        {/* <h2>Our Assistant Instructors</h2> */}
+        <h2>Our TEAM OF Assistant Instructors:</h2>
         1. Sempei Dr. C. Sandhiya
         <br />
         2. Sempei C. Arunkumar
@@ -48,29 +76,92 @@ function About() {
         <br />
         6. Sempei V. Karthikeyan
       </p>
-      <img src="/about/3.JPG" alt="Assistant Instructors" className="about-img" />
+      <img
+        src="/about/3.JPG"
+        alt="Assistant Instructors"
+        className="about-img"
+      />
 
       <h2>Our Training Style</h2>
       <p>
-        We specialise in Seigokan Goju-Ryu Karate, a traditional Japanese style
-        founded in 1945 by Seigo Tada Sensei and presently led by Grand Master Kyoshi Takeshi Fukuchi, 8th Dan.
-         Known for its unique balance of hard and soft
-        techniques, Seigokan Goju-Ryu emphasizes powerful strikes, close-range
-        defence, breathing control, and mental discipline. Training is rooted in
-        Kihon (basics), Kata (forms), and Kumite (sparring), ensuring the
-        holistic development of both body and mind.
-      <br/>
+        {/* We specialise in Seigokan Goju-Ryu Karate, a traditional Japanese style
+        founded in 1945 by Seigo Tada Sensei and presently led by Grand Master
+        Kyoshi Takeshi Fukuchi, 8th Dan. Known for its unique balance of hard
+        and soft techniques, Seigokan Goju-Ryu emphasizes powerful strikes,
+        close-range defence, breathing control, and mental discipline. Training
+        is rooted in Kihon (basics), Kata (forms), and Kumite (sparring),
+        ensuring the holistic development of both body and mind.
+        <br />
         In addition to traditional training, TEAM SKAI_KOLATHUR also offers
         Sports Karate, Self-Defence, and Tournament Coaching, with our students
         consistently excelling at state and national-level competitions.
-      <br/>
+        <br />
         At SKAI_Kolathur, we believe Karate is more than just a martial art—it
         is a way of life that builds respect, resilience, and leadership. Our
         mission is to empower students of all ages to embrace discipline, stay
         healthy, and cultivate a strong character that extends beyond the dojo.
         With a blend of tradition and modern training methods, we continue to
         shape confident individuals who carry the true spirit of Karate into
-        every aspect of their lives.
+        every aspect of their lives. */}
+        MKAI Karate specializes in Goju-Ryu Karate, a traditional Japanese style
+        that emphasizes a balanced approach, combining hard and soft techniques,
+        proper breathing, and mental focus. This style develops strength,
+        flexibility, precision, and resilience, ensuring students gain both
+        physical skills and mental discipline. Training at MKAI Karate focuses
+        on: ● Kihon (Basics): Strengthening foundational techniques ● Kata
+        (Forms): Developing precision, coordination, and focus ● Kumite
+        (Sparring): Practicing controlled and competitive fighting Goju-Ryu
+        Karate is designed not only to build powerful techniques but also to
+        cultivate inner strength, mental clarity, and perseverance. Our training
+        emphasizes the harmony of body and mind, teaching students to stay calm
+        under pressure, react effectively, and carry confidence into daily life.
+        At MKAI Karate, every session reinforces discipline, respect, and
+        self-control, ensuring that students grow into well-rounded martial
+        artists who embody the true spirit of Goju-Ryu. Whether for
+        self-defense, fitness, or competitive achievement, our style provides a
+        holistic foundation that benefits practitioners of all ages and levels.
+      </p>
+      <h2>Our Training Style</h2>
+      <p>
+        At MKAI Karate, students progress through a structured belt system
+        designed to develop skill, discipline, and character. Grading ensures
+        that every student strengthens their foundation in Kihon (basics), Kata
+        (forms), and Kumite (sparring) while embodying the core values of
+        Karate: respect, perseverance, and self-control. Belt Levels and Kyu
+        Grades ● White Belt (10th Kyu) – Beginner level, introduction to
+        fundamentals and discipline ● Yellow Belt (9th Kyu) – Developing basic
+        techniques and focus ● Orange Belt (8th Kyu) – Enhancing coordination,
+        timing, and basic Kata ● Green Belt (7th Kyu) – Strengthening techniques
+        and sparring skills ● Blue Belt (6th Kyu) – Advanced techniques and Kata
+        proficiency ● Purple Belt (5th Kyu) – Advanced techniques, controlled
+        Kumite, and preparation for Brown belts ● Brown 4 → Brown 1 Belts (4th →
+        1st Kyu) – Higher-level Kata and advanced techniques, mastery of complex
+        Kata, and developing mentoring abilities in preparation for Black Belt ●
+        Black Belt (1st Dan and above) – Mastery of fundamentals, leadership,
+        teaching, and mentoring Grading Frequency: ● Color Belts (10th Kyu → 1st
+        Kyu): Conducted three times a year ● Black Belt (1st Dan and above):
+        Conducted once a year Gradings are conducted under the supervision of
+        Chief Examiner – Sensei K. Manikandan (4th Dan, KIO – National Judge)
+        along with our Assistant Instructors. Evaluations focus on technical
+        skill, attitude, discipline, and overall character, helping students
+        grow in all aspects. This grading system is designed to challenge
+        students at the right level, encourage steady improvement, and celebrate
+        their achievements. Excellence in tournaments and demonstrations is also
+        recognized, reinforcing the values of commitment, hard work, and
+        integrity.
+      </p>
+      <h2>Our Philosophy</h2>
+      <p>
+        At MKAI Karate (Meishin Karate Association of Integrity), we believe
+        that Karate is more than a martial art—it is a way of life guided by
+        integrity, truth, and honesty. Our mission is to empower students to
+        embrace discipline, maintain physical and mental fitness, and develop
+        strong character that reflects the principles of Meishin both inside and
+        outside the dojo. By blending traditional techniques with modern
+        training methods, MKAI Karate shapes confident, respectful, and
+        resilient individuals who live by the values of honesty, integrity, and
+        perseverance, carrying the true spirit of Karate into every aspect of
+        their lives.
       </p>
     </div>
   );
