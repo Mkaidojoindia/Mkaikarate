@@ -21,11 +21,11 @@ function Preloader() {
     <div className={`preloader ${fadeOut ? "fade-out" : ""}`}>
       <div className="preloader-content">
         <img
-          src="/logos/SKAI-LOGO.PNG"
+          src="/logos/MKAI-LOGO.PNG"
           alt="Loading..."
           className="preloader-logo"
         />
-        <h1 className="preloader-title">SKAI KARATE KOLATHUR</h1>
+        <h1 className="preloader-title">MKAI KARATE KOLATHUR</h1>
         <p className="preloader-anniversary">
           Marking 15 Years of Outstanding Contribution to Karate
         </p>

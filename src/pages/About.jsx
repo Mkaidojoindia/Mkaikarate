@@ -5,6 +5,19 @@ function About() {
   return (
     <div className="about-page">
       <h1>About Us</h1>
+      <h2>Our Philosophy</h2>
+      <p>
+        At MKAI Karate (Meishin Karate Association of Integrity), we believe
+        that Karate is more than a martial art—it is a way of life guided by
+        integrity, truth, and honesty. Our mission is to empower students to
+        embrace discipline, maintain physical and mental fitness, and develop
+        strong character that reflects the principles of Meishin both inside and
+        outside the dojo. By blending traditional techniques with modern
+        training methods, MKAI Karate shapes confident, respectful, and
+        resilient individuals who live by the values of honesty, integrity, and
+        perseverance, carrying the true spirit of Karate into every aspect of
+        their lives.
+      </p>
       <p>
         {/* SKAI_Kolathur branch was started in 2011 by Sensei K. Manikandan (4th
         Dan, KIO - National Judge) under the guidance of Shihan B. Duraivelu,
@@ -107,61 +120,22 @@ function About() {
         that emphasizes a balanced approach, combining hard and soft techniques,
         proper breathing, and mental focus. This style develops strength,
         flexibility, precision, and resilience, ensuring students gain both
-        physical skills and mental discipline. Training at MKAI Karate focuses
-        on: ● Kihon (Basics): Strengthening foundational techniques ● Kata
-        (Forms): Developing precision, coordination, and focus ● Kumite
-        (Sparring): Practicing controlled and competitive fighting Goju-Ryu
-        Karate is designed not only to build powerful techniques but also to
-        cultivate inner strength, mental clarity, and perseverance. Our training
-        emphasizes the harmony of body and mind, teaching students to stay calm
-        under pressure, react effectively, and carry confidence into daily life.
-        At MKAI Karate, every session reinforces discipline, respect, and
-        self-control, ensuring that students grow into well-rounded martial
-        artists who embody the true spirit of Goju-Ryu. Whether for
-        self-defense, fitness, or competitive achievement, our style provides a
-        holistic foundation that benefits practitioners of all ages and levels.
-      </p>
-      <h2>Our Training Style</h2>
-      <p>
-        At MKAI Karate, students progress through a structured belt system
-        designed to develop skill, discipline, and character. Grading ensures
-        that every student strengthens their foundation in Kihon (basics), Kata
-        (forms), and Kumite (sparring) while embodying the core values of
-        Karate: respect, perseverance, and self-control. Belt Levels and Kyu
-        Grades ● White Belt (10th Kyu) – Beginner level, introduction to
-        fundamentals and discipline ● Yellow Belt (9th Kyu) – Developing basic
-        techniques and focus ● Orange Belt (8th Kyu) – Enhancing coordination,
-        timing, and basic Kata ● Green Belt (7th Kyu) – Strengthening techniques
-        and sparring skills ● Blue Belt (6th Kyu) – Advanced techniques and Kata
-        proficiency ● Purple Belt (5th Kyu) – Advanced techniques, controlled
-        Kumite, and preparation for Brown belts ● Brown 4 → Brown 1 Belts (4th →
-        1st Kyu) – Higher-level Kata and advanced techniques, mastery of complex
-        Kata, and developing mentoring abilities in preparation for Black Belt ●
-        Black Belt (1st Dan and above) – Mastery of fundamentals, leadership,
-        teaching, and mentoring Grading Frequency: ● Color Belts (10th Kyu → 1st
-        Kyu): Conducted three times a year ● Black Belt (1st Dan and above):
-        Conducted once a year Gradings are conducted under the supervision of
-        Chief Examiner – Sensei K. Manikandan (4th Dan, KIO – National Judge)
-        along with our Assistant Instructors. Evaluations focus on technical
-        skill, attitude, discipline, and overall character, helping students
-        grow in all aspects. This grading system is designed to challenge
-        students at the right level, encourage steady improvement, and celebrate
-        their achievements. Excellence in tournaments and demonstrations is also
-        recognized, reinforcing the values of commitment, hard work, and
-        integrity.
-      </p>
-      <h2>Our Philosophy</h2>
-      <p>
-        At MKAI Karate (Meishin Karate Association of Integrity), we believe
-        that Karate is more than a martial art—it is a way of life guided by
-        integrity, truth, and honesty. Our mission is to empower students to
-        embrace discipline, maintain physical and mental fitness, and develop
-        strong character that reflects the principles of Meishin both inside and
-        outside the dojo. By blending traditional techniques with modern
-        training methods, MKAI Karate shapes confident, respectful, and
-        resilient individuals who live by the values of honesty, integrity, and
-        perseverance, carrying the true spirit of Karate into every aspect of
-        their lives.
+        physical skills and mental discipline.<br></br>
+        <br></br>
+        <b>Training at MKAI Karate focuses on:</b>
+        <br></br>● Kihon (Basics): Strengthening foundational techniques{" "}
+        <br></br>● Kata (Forms): Developing precision, coordination, and focus
+        <br></br>● Kumite (Sparring): Practicing controlled and competitive
+        fighting Goju-Ryu Karate is designed not only to build powerful
+        techniques but also to cultivate inner strength, mental clarity, and
+        perseverance. Our training emphasizes the harmony of body and mind,
+        teaching students to stay calm under pressure, react effectively, and
+        carry confidence into daily life. At MKAI Karate, every session
+        reinforces discipline, respect, and self-control, ensuring that students
+        grow into well-rounded martial artists who embody the true spirit of
+        Goju-Ryu. Whether for self-defense, fitness, or competitive achievement,
+        our style provides a holistic foundation that benefits practitioners of
+        all ages and levels.
       </p>
     </div>
   );

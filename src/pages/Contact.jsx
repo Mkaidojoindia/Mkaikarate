@@ -38,14 +38,14 @@ function Contact() {
       <h1 className="contact-title">Contact Us</h1>
       <div className="contact-container">
         <div className="contact-info">
-          <h2>SKAI Karate Kolathur </h2>
+          <h2>MKAI Karate Kolathur </h2>
           <p>
             No: 48/53, Rajarajeswari Nagar,
             <br />
             Kolathur, Chennai - 600099.
           </p>
           <p>
-            <strong>Email:</strong> skaikolathur.2011@gmail.com
+            <strong>Email:</strong> Mkaidojo.india@gmail.com
           </p>
           <p>
             <strong>Phone:</strong> 96000 41923
@@ -54,11 +54,11 @@ function Contact() {
 
         <div className="contact-form-wrapper">
           {status === "success" && (
-            <div className="status success">Thanks for reaching out to SKAI Karate Kolathur.</div>
+            <div className="status success">Thanks for reaching out to MKAI Karate Kolathur.</div>
           )}
           {status === "error" && (
             <div className="status error">We're sorry, your message couldn't be sent right now.<br />
-            Please try again later or contact us directly at <strong>skaikolathur.2011@gmail.com</strong>.</div>
+            Please try again later or contact us directly at <strong>Mkaidojo.india@gmail.com</strong>.</div>
           )}
 
           <form ref={form} onSubmit={sendEmail}>

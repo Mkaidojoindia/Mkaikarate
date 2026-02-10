@@ -4,12 +4,12 @@ import "../styles/Instructor.css";
 
 function InstructorCarousel() {
   const instructors = [
-    { id: 1, name: "Sempei Dr. C. Sandhiya", rank: "1st Dan Black Belt", des: "Assistant Instructor - SKAI Karate", img: "/instructor/SANDHIYA.JPG" },
-    { id: 2, name: "Sempei C. Arunkumar, MCA", rank: "2nd Dan Black Belt", des: "Assistant Instructor - SKAI Karate, Accredited Coach - KIO", img: "/instructor/ARUNKUMAR.JPG" },
-    { id: 3, name: "Sempei B. Saravanakumar, M.Com", rank: "2nd Dan Black Belt", des: "Assistant Instructor - SKAI Karate, Certified Coach - KIO", img: "/instructor/SARAVANAKUMAR.JPG"},
-    { id: 4, name: "Sempei R. VijayKrishna, MBA", rank: "1st Dan Black Belt", des: "Assistant Instructor - SKAI Karate", img: "/instructor/VIJAYKRISHNA.JPG" },
-    { id: 5, name: "Sempei B. Surya, BCA", rank: "1st Dan Black Belt", des:"Assistant Instructor - SKAI Karate", img: "/instructor/SURYA.JPG" },
-    { id: 6, name: "Sempei V. Karthikeyan, B.Com", rank: "1st Dan Black Belt", des:"Assistant Instructor - SKAI Karate", img: "/instructor/KARTHIKEYAN.JPG" },
+    { id: 1, name: "Sempei Dr. C. Sandhiya", rank: "1st Dan Black Belt", des: "Assistant Instructor - MKAI Karate", img: "/instructor/SANDHIYA.JPG" },
+    { id: 2, name: "Sempei C. Arunkumar, MCA", rank: "2nd Dan Black Belt", des: "Assistant Instructor - MKAI Karate, Accredited Coach - KIO", img: "/instructor/ARUNKUMAR.JPG" },
+    { id: 3, name: "Sempei B. Saravanakumar, M.Com", rank: "2nd Dan Black Belt", des: "Assistant Instructor - MKAI Karate, Certified Coach - KIO", img: "/instructor/SARAVANAKUMAR.JPG"},
+    { id: 4, name: "Sempei R. VijayKrishna, MBA", rank: "1st Dan Black Belt", des: "Assistant Instructor - MKAI Karate", img: "/instructor/VIJAYKRISHNA.JPG" },
+    { id: 5, name: "Sempei B. Surya, BCA", rank: "1st Dan Black Belt", des:"Assistant Instructor - MKAI Karate", img: "/instructor/SURYA.JPG" },
+    { id: 6, name: "Sempei V. Karthikeyan, B.Com", rank: "1st Dan Black Belt", des:"Assistant Instructor - MKAI Karate", img: "/instructor/KARTHIKEYAN.JPG" },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -60,7 +60,7 @@ function InstructorCarousel() {
         <div className="featured-info">
           <h3>Honarary Coach</h3>
           <h3>Sensei K. Manikandan</h3>
-          <p>4th Dan Black Belt<br />Asst. Chief Instructor- SKAI Karate, National Judge - KIO, Joint Secretary - TDSKA</p>
+          <p>4th Dan Black Belt<br />Asst. Chief Instructor- MKAI Karate, National Judge - KIO, Joint Secretary - TDSKA</p>
         </div>
       </div>
 

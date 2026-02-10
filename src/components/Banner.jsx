@@ -6,9 +6,9 @@ function Banner() {
       <div className="banner-wrapper">
         {/* Left logos */}
         <div className="banner-logos-left">
-          <img src="/logos/SKAI-LOGO.PNG" alt="Logo 1" className="banner-img" />
+          <img src="/logos/MKAI-LOGO.PNG" alt="Logo 1" className="banner-img" />
           <img
-            src="/logos/GOJU-RYU-LOGO.PNG"
+            src="/logos/EXPERIENCE-LOGO.PNG"
             alt="Logo 2"
             className="banner-img"
           />
