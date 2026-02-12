@@ -25,19 +25,30 @@ function About() {
         a proud branch of the Shuhari Karate Association of India (SKAI Karate),
         founded by four directors - Shihan B. Duraivelu, Shihan G. Gajendran,
         Shihan N. Pandian, and Shihan B. Loganathan. */}
-        Meishin Karate Association of Integrity (MKAI) was founded in 2011 in
-        Kolathur by Sensei K. Manikandan (4th Dan, KIO – National Judge), who
-        serves as the President and Founder of MKAI Karate. With a vision to
-        promote Karate as a way of life, MKAI has grown from humble beginnings
-        with a few passionate students into a respected karate academy dedicated
-        to nurturing discipline, confidence, and character in practitioners of
-        all ages.s the guiding force of MKAI Karate, Sensei K. Manikandan brings
-        years of dedicated experience in both traditional and competitive
-        Karate. He trains students to develop discipline, precision, and mental
-        strength, inspiring them to achieve their full potential both on and off
-        the mat.
+        Our Journey: From 2011 to MKAI Karate Meishin Karate Association of
+        Integrity (MKAI) was officially founded in 2025 by Sensei K. Manikandan
+        (4th Dan, Karate India Organisation – National Judge), who serves as the
+        President and Founder of MKAI Karate. However, the journey began much
+        earlier. Sensei K. Manikandan started conducting karate classes in 2011
+        in Kolathur, training students with dedication and passion. What began
+        as a small group of committed learners gradually evolved into a strong
+        and disciplined karate community. <br></br>
+        <br></br>Our dojo began in Kolathur in 2011, where each class focused on
+        building skill, confidence, and self-discipline. Through continuous
+        dedication and a commitment to quality training, MKAI Karate has
+        steadily grown and now serves students across multiple branches
+        throughout Tamil Nadu. With a vision to promote Karate as a way of life,
+        MKAI is committed to nurturing discipline, confidence, respect, and
+        strong character in practitioners of all ages.
+        <br></br>
+        <br></br>
+        As the guiding force behind MKAI Karate, Sensei Manikandan brings years
+        of experience in both traditional and competitive karate. He emphasizes
+        technical excellence, mental strength, and leadership development,
+        inspiring students to achieve their full potential both on and off the
+        mat.
       </p>
-      <img src="/about/1.JPG" alt="About Karate" className="about-img" />
+      <img src="/about/5.JPG" alt="About Karate" className="about-img" />
 
       <p>
         {/* Sensei K. Manikandan is the founder and guiding force of our dojo. With

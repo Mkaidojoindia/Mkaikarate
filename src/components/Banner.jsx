@@ -6,12 +6,8 @@ function Banner() {
       <div className="banner-wrapper">
         {/* Left logos */}
         <div className="banner-logos-left">
-          <img src="/logos/MKAI-LOGO.PNG" alt="Logo 1" className="banner-img" />
-          <img
-            src="/logos/EXPERIENCE-LOGO.PNG"
-            alt="Logo 2"
-            className="banner-img"
-          />
+          <img src="/logos/MKAI LOGO.png" alt="Logo 1" className="banner-img" />
+          <img src="/logos/15th logo.png" alt="Logo 2" className="banner-img" />
         </div>
 
         {/* Center content */}
