@@ -4,21 +4,57 @@ import "../styles/Instructor.css";
 
 function InstructorCarousel() {
   const instructors = [
-    { id: 1, name: "Sempei Dr. C. Sandhiya", rank: "1st Dan Black Belt", des: "Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate", img: "/instructor/SANDHIYA.JPG" },
-    { id: 2, name: "Sempei C. Arunkumar, MCA", rank: "2nd Dan Black Belt", des: "Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate National Accredited Coach - KIO", img: "/instructor/ARUNKUMAR.JPG" },
-    { id: 3, name: "Sempei B. Saravanakumar, M.Com", rank: "2nd Dan Black Belt", des: "Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate National Accredited Coach - KIO", img: "/instructor/SARAVANAKUMAR.JPG"},
-    { id: 4, name: "Sempei R. VijayKrishna, MBA", rank: "1st Dan Black Belt", des: "Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate", img: "/instructor/VIJAYKRISHNA.JPG" },
-    { id: 5, name: "Sempei B. Surya, BCA", rank: "1st Dan Black Belt", des:"Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate", img: "/instructor/SURYA.JPG" },
-    { id: 6, name: "Sempei V. Karthikeyan, B.Com", rank: "1st Dan Black Belt", des:"Assistant Chief Instructor – MKAI Karate EC Member - MKAI Karate", img: "/instructor/KARTHIKEYAN.JPG" },
+    {
+      id: 1,
+      name: "Sempei Dr. C. Sandhiya",
+      rank: "1st Dan Black Belt",
+      des: "Assistant Chief Instructor – MKAI Karate",
+      img: "/instructor/SANDHIYA.JPG",
+    },
+    {
+      id: 2,
+      name: "Sempei C. Arunkumar, MCA",
+      rank: "2nd Dan Black Belt",
+      des: "Assistant Chief Instructor - MKAI Karate National Accredited Coach - KIO",
+      img: "/instructor/ARUNKUMAR.JPG",
+    },
+    {
+      id: 3,
+      name: "Sempei B. Saravanakumar, M.Com",
+      rank: "2nd Dan Black Belt",
+      des: "Assistant Chief Instructor – MKAI Karate National Certified Coach - KIO",
+      img: "/instructor/SARAVANAKUMAR.JPG",
+    },
+    {
+      id: 4,
+      name: "Sempei R. VijayKrishna, MBA",
+      rank: "1st Dan Black Belt",
+      des: "Assistant Chief Instructor - MKAI Karate",
+      img: "/instructor/VIJAYKRISHNA.JPG",
+    },
+    {
+      id: 5,
+      name: "Sempei B. Surya, BCA",
+      rank: "1st Dan Black Belt",
+      des: "Assistant Chief Instructor - MKAI Karate",
+      img: "/instructor/SURYA.JPG",
+    },
+    {
+      id: 6,
+      name: "Sempei V. Karthikeyan, B.Com",
+      rank: "1st Dan Black Belt",
+      des: "Assistant Instructor - MKAI Karate",
+      img: "/instructor/KARTHIKEYAN.JPG",
+    },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [itemsPerPage, setItemsPerPage] = useState(getItemsPerPage());
 
   function getItemsPerPage() {
-    if (window.innerWidth <= 768) return 1;   
-    if (window.innerWidth <= 1024) return 2;  
-    return 3;                                 
+    if (window.innerWidth <= 768) return 1;
+    if (window.innerWidth <= 1024) return 2;
+    return 3;
   }
 
   useEffect(() => {
@@ -63,9 +99,8 @@ function InstructorCarousel() {
           <p>
             4th Dan Black Belt
             <br />
-            <br></br>
-            Founder & President – MKAI Karate Chief Instructor & Examiner – MKAI
-            Karate <br></br><br></br>National Referee & Judge – KIO Joint Secretary – TDSKA
+            Founder & President \ Chief Instructor & Examiner – MKAI Karate
+            <br></br>National Referee & Judge – KIO, Joint Secretary – TDSKA.
           </p>
         </div>
       </div>

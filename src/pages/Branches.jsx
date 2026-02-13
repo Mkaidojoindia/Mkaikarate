@@ -4,7 +4,7 @@ import "../styles/Branches.css";
 const branches = [
   {
     name: "Kolathur, Chennai",
-    images: ["/branches/1.JPG", "/branches/1A.JPG"],
+    images: ["/branches/10.JPG", "/branches/1A.JPG"],
     contact: "Contact Number: 96000 41923",
     map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.703668962185!2d80.20956337454881!3d13.117949611653811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265e1c3a45015%3A0x99172a802290971d!2sSKAI%20karate_kolathur!5e0!3m2!1sen!2sin!4v1760604418501!5m2!1sen!2sin",
   },
