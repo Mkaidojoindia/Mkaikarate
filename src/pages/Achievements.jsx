@@ -23,7 +23,8 @@ const achievements = [
     image: ["/achievements/3.JPG", "/achievements/3A.JPG"],
   },
   {
-    title: "Thiruvallur District Cadets, Junior, Senior & U18 Karate Championship.",
+    title:
+      "Thiruvallur District Cadets, Junior, Senior & U18 Karate Championship.",
     year: "2025",
     image: ["/achievements/4.JPG", "/achievements/4A.JPG"],
   },
@@ -38,12 +39,14 @@ const achievements = [
     image: ["/achievements/6.JPG", "/achievements/6A.JPG"],
   },
   {
-    title: "Our Team SKAI_Kolathur at 68th National School Games TN State Karate Selection at Karaikudi.",
+    title:
+      "Our Team SKAI_Kolathur at 68th National School Games TN State Karate Selection at Karaikudi.",
     year: "2024",
     image: "/achievements/7.JPG",
   },
   {
-    title: "Our Sensei K.MANIKANDAN has been officially appointed as OBSERVER of 68th National School Games TN State Karate Selection at Karaikudi.",
+    title:
+      "Our Sensei K.MANIKANDAN has been officially appointed as OBSERVER of 68th National School Games TN State Karate Selection at Karaikudi.",
     year: "2024",
     image: ["/achievements/8.JPG", "/achievements/8A.JPG"],
   },
@@ -88,7 +91,8 @@ const achievements = [
     image: ["/achievements/16.JPG", "/achievements/16A.JPG"],
   },
   {
-    title: "Overall Trophy at 2nd South India Level Open Championship at Erode.",
+    title:
+      "Overall Trophy at 2nd South India Level Open Championship at Erode.",
     year: "2024",
     image: "/achievements/17.JPG",
   },
@@ -118,7 +122,8 @@ const achievements = [
     image: "/achievements/22.JPG",
   },
   {
-    title: "Overall Trophy at 2nd State Level Invitational Karate Championship.",
+    title:
+      "Overall Trophy at 2nd State Level Invitational Karate Championship.",
     year: "2022",
     image: "/achievements/23.JPG",
   },
@@ -157,8 +162,18 @@ const achievements = [
     year: "2017",
     image: "/achievements/30.JPG",
   },
+  {
+    title: "41 District Medalists",
+    year: "2026",
+    image: "/achievements/31.JPG",
+  },
+  {
+    title:
+      "TamilNadu State Karate Championship for Cadet, Junior and Senior at Chennai.",
+    year: "2026",
+    image: "/achievements/32.JPG",
+  },
 ];
-
 
 function Achievements() {
   return (
@@ -176,7 +191,7 @@ function Achievements() {
 function AchievementCard({ item }) {
   const images = useMemo(
     () => (Array.isArray(item.image) ? item.image : [item.image]),
-    [item.image]
+    [item.image],
   );
 
   const [current, setCurrent] = useState(0);

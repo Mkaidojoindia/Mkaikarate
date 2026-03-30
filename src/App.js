@@ -13,7 +13,7 @@ import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Preloader from "./components/Preloader";
-import Banner from "./components/Banner"; 
+import Banner from "./components/Banner";
 import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
@@ -30,9 +30,9 @@ function App() {
 
   return (
     <Router>
-      <Banner />   
-      <Navbar />  
-      <ScrollToTop /> 
+      <Banner />
+      <Navbar />
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />

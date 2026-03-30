@@ -13,10 +13,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "service_ioboez6",
-        "template_mzu35zl",
+        "service_1b12zbt",
+        "template_cr3wxuw",
         form.current,
-        "Bo9O2h_vJ9lwUH_Tl"
+        "TaUuiWrNJ38WzNtaw",
       )
       .then(
         () => {
@@ -29,7 +29,7 @@ function Contact() {
           setStatus("error");
           setIsSending(false);
           setTimeout(() => setStatus(""), 2500);
-        }
+        },
       );
   };
 
@@ -54,11 +54,17 @@ function Contact() {
 
         <div className="contact-form-wrapper">
           {status === "success" && (
-            <div className="status success">Thanks for reaching out to MKAI Karate Kolathur.</div>
+            <div className="status success">
+              Thanks for reaching out to MKAI Karate Kolathur.
+            </div>
           )}
           {status === "error" && (
-            <div className="status error">We're sorry, your message couldn't be sent right now.<br />
-            Please try again later or contact us directly at <strong>Mkaidojo.india@gmail.com</strong>.</div>
+            <div className="status error">
+              We're sorry, your message couldn't be sent right now.
+              <br />
+              Please try again later or contact us directly at{" "}
+              <strong>Mkaidojo.india@gmail.com</strong>.
+            </div>
           )}
 
           <form ref={form} onSubmit={sendEmail}>

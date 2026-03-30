@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../styles/Branches.css"; 
+import "../styles/Branches.css";
 
 const branches = [
   {
@@ -30,27 +30,44 @@ const branches = [
     name: "Thirumullaivoyal, Chennai",
     images: ["/branches/5.JPG", "/branches/5A.JPG"],
     contact: "Contact Number: 93601 54261",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124337.33083023323!2d79.98342519726563!3d13.128201200000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263a3ee3ca7f3%3A0xd0a2518169fd538e!2sATTITUDE%20KIDS%20CBSE%20Concept%20Play%20school%20Thirumullaivoyal!5e0!3m2!1sen!2sin!4v1760678642728!5m2!1sen!2sin",
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.542027958925!2d80.13329950865938!3d13.128173411376784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52635f53176d79%3A0x928e832b58318b5f!2sMKAI%20Karate_Thirumullaivoyal!5e0!3m2!1sen!2sin!4v1773762011062!5m2!1sen!2sin",
   },
-  {
-    name: "Villivakkam, Chennai",
-    images: ["/branches/6.JPG", "/branches/6A.JPG"],
-    contact: "Contact Number: 91508 64749",
-    map: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3885.6938294139973!2d80.20355607507894!3d13.118572187210495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA3JzA2LjkiTiA4MMKwMTInMjIuMSJF!5e0!3m2!1sen!2sin!4v1760605804715!5m2!1sen!2sin",
-  },
+  // {
+  //   name: "Villivakkam, Chennai",
+  //   images: ["/branches/6.JPG", "/branches/6A.JPG"],
+  //   contact: "Contact Number: 91508 64749",
+  //   map: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3885.6938294139973!2d80.20355607507894!3d13.118572187210495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA3JzA2LjkiTiA4MMKwMTInMjIuMSJF!5e0!3m2!1sen!2sin!4v1760605804715!5m2!1sen!2sin",
+  // },
   {
     name: "Ambattur, Chennai",
     images: ["/branches/7.JPG", "/branches/7A.JPG"],
     contact: "Contact Number: 93601 54261",
     map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.7200622231753!2d80.1517413!3d13.1169123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263bba15a46d3%3A0x465bd18306225f74!2sKavin's%20Sports%20Academy%20-%20Ambattur%20OT!5e0!3m2!1sen!2sin!4v1728858612345!5m2!1sen!2sin",
   },
+  // {
+  //   name: "BanuNagar, Ambattur, Chennai",
+  //   images: ["/branches/8.JPG", "/branches/8A.JPG"],
+  //   contact: "Contact Number: 82208 17755, 90877 82501",
+  //   map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.434812192723!2d80.16060290000001!3d13.134950499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526365cd22f035%3A0x207317999fe4193a!2sRus%20Kendra%20Sports%20and%20Cultural%20Hub!5e0!3m2!1sen!2sin!4v1760604765468!5m2!1sen!2sin",
+  // },
   {
-    name: "BanuNagar, Ambattur, Chennai",
+    name: "Perambur, Chennai",
     images: ["/branches/8.JPG", "/branches/8A.JPG"],
-    contact: "Contact Number: 82208 17755, 90877 82501",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.434812192723!2d80.16060290000001!3d13.134950499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526365cd22f035%3A0x207317999fe4193a!2sRus%20Kendra%20Sports%20and%20Cultural%20Hub!5e0!3m2!1sen!2sin!4v1760604765468!5m2!1sen!2sin",
+    contact: "Contact Number: 82208 17755",
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.635134301619!2d80.23314437318307!3d13.122285387207068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265639fab9b13%3A0xe39a3db33fae0cda!2sMKAI%20Karate_Perambur!5e0!3m2!1sen!2sin!4v1773762824837!5m2!1sen!2sin",
   },
-  
+  {
+    name: "Mogappair, Chennai",
+    images: ["/branches/8.JPG", "/branches/8A.JPG"],
+    contact: "Contact Number: 82208 17755",
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.2239443874864!2d80.17135267318216!3d13.084988887240844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263c004ea6a95%3A0xff2ad8c7fd468d44!2sMKAI%20Karate_Mogappair!5e0!3m2!1sen!2sin!4v1773762950059!5m2!1sen!2sin",
+  },
+  {
+    name: "Nolambur, Chennai",
+    images: ["/branches/8.JPG", "/branches/8A.JPG"],
+    contact: "Contact Number: 82208 17755",
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.361386099879!2d80.16143677318192!3d13.07626798724878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261bc1925ca05%3A0x46ccfe10d2d8b7a!2sMKAI%20karate_Nolambur!5e0!3m2!1sen!2sin!4v1773763044789!5m2!1sen!2sin",
+  },
 ];
 
 function Branches() {
@@ -62,7 +79,7 @@ function Branches() {
         prevIndexes.map((idx, branchIdx) => {
           const images = branches[branchIdx].images;
           return idx === images.length - 1 ? 0 : idx + 1;
-        })
+        }),
       );
     }, 3000);
 

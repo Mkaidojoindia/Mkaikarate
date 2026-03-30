@@ -8,7 +8,7 @@ function Preloader() {
   useEffect(() => {
     const handleLoad = () => {
       setFadeOut(true);
-      setTimeout(() => setLoading(false), 1000); 
+      setTimeout(() => setLoading(false), 1000);
     };
 
     window.addEventListener("load", handleLoad);
@@ -25,7 +25,7 @@ function Preloader() {
           alt="Loading..."
           className="preloader-logo"
         />
-        <h1 className="preloader-title">MKAI KARATE KOLATHUR</h1>
+        <h1 className="preloader-title">MKAI KARATE</h1>
         <p className="preloader-anniversary">
           Marking 15 Years of Outstanding Contribution to Karate
         </p>
