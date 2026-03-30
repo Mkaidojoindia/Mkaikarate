@@ -3,7 +3,18 @@ import "../styles/Achievements.css";
 
 const achievements = [
   {
-    title: "Team SKAI_Kolathur at NEWS",
+    title: "41 District Medalists",
+    year: "2026",
+    image: "/achievements/31.JPG",
+  },
+  {
+    title:
+      "TamilNadu State Karate Championship for Cadet, Junior and Senior at Chennai.",
+    year: "2026",
+    image: "/achievements/32.JPG",
+  },
+  {
+    title: "Team MKAI Karate at NEWS",
     year: "",
     image: ["/achievements/NEWS.JPG", "/achievements/NEWS1.JPG"],
   },
@@ -161,17 +172,6 @@ const achievements = [
     title: "1st All India Goju-Ryu Karate Championship.",
     year: "2017",
     image: "/achievements/30.JPG",
-  },
-  {
-    title: "41 District Medalists",
-    year: "2026",
-    image: "/achievements/31.JPG",
-  },
-  {
-    title:
-      "TamilNadu State Karate Championship for Cadet, Junior and Senior at Chennai.",
-    year: "2026",
-    image: "/achievements/32.JPG",
   },
 ];
 

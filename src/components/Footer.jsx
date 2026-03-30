@@ -9,7 +9,7 @@ function Footer() {
         {/* Left Section - Social Media */}
         <div className="footer-social">
           <a
-            href="https://instagram.com/skaikarate_kolathur?igshid=NDk5N2NlZjQ="
+            href="https://www.instagram.com/mkai_karateindia?igsh=b2xwZ2d0YzJqNWx3&utm_source=qr"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -17,7 +17,7 @@ function Footer() {
             <FaInstagram />
           </a>
           <a
-            href="https://youtube.com/@skaikarate_kolathur"
+            href="https://youtube.com/@mkai_karateindia?si=6ewzWHAehaimNqUW"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="YouTube"
@@ -25,7 +25,7 @@ function Footer() {
             <FaYoutube />
           </a>
           <a
-            href="https://www.facebook.com/teamskai.kolathur/"
+            href="https://www.facebook.com/share/17sfeJRFT3/?mibextid=wwXIfr"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
