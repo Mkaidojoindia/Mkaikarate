@@ -20,8 +20,8 @@ function About() {
       </p>
 
       <img src="/about/6.JPG" alt="About Karate" className="about-img" />
+      <h2> Our Journey: From 2011 to MKAI Karate</h2>
       <p>
-        <h2> Our Journey: From 2011 to MKAI Karate</h2>
         Meishin Karate Association of Integrity (MKAI) was officially founded in
         2025 by Sensei K. Manikandan (4th Dan, Karate India Organisation –
         National Judge), who serves as the President and Founder of MKAI Karate.
@@ -58,7 +58,9 @@ function About() {
         skills but also learn important life values such as respect,
         perseverance, focus, and confidence.
         {/* <h2>Our Assistant Instructors</h2> */}
-        <h2>Our Team OF Assistant Instructors:</h2>
+        <br></br>
+        <b>Our Team OF Assistant Instructors:</b>
+        <br></br>
         1. Sempei Dr. C. Sandhiya
         <br />
         2. Sempei C. Arunkumar
@@ -123,22 +125,28 @@ function About() {
 
       <h2>Our Grading System</h2>
       <p>
-        At MKAI Karate, students progress through a structured belt system
-        designed to develop skill, discipline, and character. Grading ensures
-        that every student strengthens their foundation in Kihon (basics), Kata
-        (forms), and Kumite (sparring) while embodying the core values of
-        Karate: respect, perseverance, and self-control. Belt Levels and Kyu
-        Grades White Belt (10th Kyu) – Beginner level, introduction to
-        fundamentals and discipline Yellow Belt (9th Kyu) – Developing basic
-        techniques and focus Orange Belt (8th Kyu) – Enhancing coordination,
-        timing, and basic Kata Green Belt (7th Kyu) – Strengthening techniques
-        and sparring skills Blue Belt (6th Kyu) – Advanced techniques and Kata
-        proficiency Purple Belt (5th Kyu) – Advanced techniques, controlled
-        Kumite, and preparation for Brown belts Brown 4 → Brown 1 Belts (4th →
-        1st Kyu) – Higher-level Kata and advanced techniques, mastery of complex
-        Kata, and developing mentoring abilities in preparation for Black Belt
-        Black Belt (1st Dan and above) – Mastery of fundamentals, leadership,
-        teaching, and mentoring
+        At<b> MKAI Karate</b>, students progress through a structured belt
+        system designed to develop skill, discipline, and character. Grading
+        ensures that every student strengthens their foundation inKihon
+        (basics), Kata (forms), and Kumite (sparring) while embodying the core
+        values of Karate:respect, perseverance, and self-control.
+        <b>Belt Levels and Kyu Grades</b>
+        White Belt (10th Kyu) – Beginner level, introduction to fundamentals and
+        discipline
+        <br></br>● Yellow Belt (9th Kyu) – Developing basic techniques and focus
+        <br></br>● Orange Belt (8th Kyu) – Enhancing coordination, timing, and
+        basic Kata
+        <br></br>● Green Belt (7th Kyu) – Strengthening techniques and sparring
+        skills
+        <br></br>● Blue Belt (6th Kyu) – Advanced techniques and Kata
+        proficiency
+        <br></br>● Purple Belt (5th Kyu) – Advanced techniques, controlled
+        Kumite, and preparation for Brown belts
+        <br></br>● Brown 4 → Brown 1 Belts (4th → 1st Kyu) – Higher-level Kata
+        and advanced techniques, mastery of complex Kata, and developing
+        mentoring abilities in preparation for Black Belt
+        <br></br>● Black Belt (1st Dan and above) – Mastery of fundamentals,
+        leadership, teaching, and mentoring
       </p>
       <img src="/about/5.JPG" alt="About Karate" className="about-img" />
 

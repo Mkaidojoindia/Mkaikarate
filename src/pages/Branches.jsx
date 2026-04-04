@@ -52,22 +52,22 @@ const branches = [
   // },
   {
     name: "Perambur, Chennai",
-    images: ["/branches/8.JPG", "/branches/8A.JPG"],
+    images: ["/branches/12.JPG", "/branches/12A.JPG"],
     contact: "Contact Number: 82208 17755",
     map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.635134301619!2d80.23314437318307!3d13.122285387207068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265639fab9b13%3A0xe39a3db33fae0cda!2sMKAI%20Karate_Perambur!5e0!3m2!1sen!2sin!4v1773762824837!5m2!1sen!2sin",
   },
   {
     name: "Mogappair, Chennai",
-    images: ["/branches/8.JPG", "/branches/8A.JPG"],
+    images: ["/branches/11.JPG", "/branches/11A.JPG"],
     contact: "Contact Number: 82208 17755",
     map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.2239443874864!2d80.17135267318216!3d13.084988887240844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263c004ea6a95%3A0xff2ad8c7fd468d44!2sMKAI%20Karate_Mogappair!5e0!3m2!1sen!2sin!4v1773762950059!5m2!1sen!2sin",
   },
-  {
-    name: "Nolambur, Chennai",
-    images: ["/branches/8.JPG", "/branches/8A.JPG"],
-    contact: "Contact Number: 82208 17755",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.361386099879!2d80.16143677318192!3d13.07626798724878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261bc1925ca05%3A0x46ccfe10d2d8b7a!2sMKAI%20karate_Nolambur!5e0!3m2!1sen!2sin!4v1773763044789!5m2!1sen!2sin",
-  },
+  // {
+  //   name: "Nolambur, Chennai",
+  //   images: ["/branches/8.JPG", "/branches/8A.JPG"],
+  //   contact: "Contact Number: 82208 17755",
+  //   map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.361386099879!2d80.16143677318192!3d13.07626798724878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261bc1925ca05%3A0x46ccfe10d2d8b7a!2sMKAI%20karate_Nolambur!5e0!3m2!1sen!2sin!4v1773763044789!5m2!1sen!2sin",
+  // },
 ];
 
 function Branches() {

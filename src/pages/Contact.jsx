@@ -38,7 +38,8 @@ function Contact() {
       <h1 className="contact-title">Contact Us</h1>
       <div className="contact-container">
         <div className="contact-info">
-          <h2>MKAI Karate Head Branch </h2>
+          <h2>MKAI Karate</h2>
+          <h2>Head Branch </h2>
           <p>
             No: 48/53, Rajarajeswari Nagar,
             <br />

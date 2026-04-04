@@ -3,10 +3,8 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [
-        { "type": "host", "value": "skaikarate-kolathur.com" }
-      ],
-      "destination": "https://www.skaikarate-kolathur.com/%3A1",
+      "has": [{ "type": "host", "value": "mkaikarate-india.com" }],
+      "destination": "https://www.mkaikarate-india.com",
       "permanent": true
     },
     {

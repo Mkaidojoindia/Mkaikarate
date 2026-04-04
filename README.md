@@ -1,6 +1,6 @@
-# 🥋 SKAI Karate Official Website
+# 🥋 MKAI Karate Official Website
 
-Welcome to the **SKAI_Karate Kolathur Official Website** — the digital home of **SKAI_Karate Kolathur**.  
+Welcome to the **MKAI_Karate Official Website** — the digital home of **MKAI_Karate**.  
 Our mission is to promote fitness, discipline, and self-defense through professional Karate training.
 
 ---
@@ -19,17 +19,17 @@ It’s built using **React.js** for a smooth and modern web experience.
 ✅ Clean, modern user interface  
 ✅ Progressive Web App (PWA) support — can be installed on Android home screen  
 ✅ Integrated contact form for inquiries  
-✅ Fast and optimized performance with React Scripts  
+✅ Fast and optimized performance with React Scripts
 
 ---
 
 ## 🧠 Tech Stack
 
-- **Frontend:** React.js (Create React App)  
-- **Styling:** CSS3  
-- **Icons:** React Icons (FontAwesome 6)  
-- **Hosting:** Vercel  
-- **Manifest:** PWA-enabled for home screen installation  
+- **Frontend:** React.js (Create React App)
+- **Styling:** CSS3
+- **Icons:** React Icons (FontAwesome 6)
+- **Hosting:** Vercel
+- **Manifest:** PWA-enabled for home screen installation
 
 ---
 
@@ -37,8 +37,9 @@ It’s built using **React.js** for a smooth and modern web experience.
 
 To run this project locally:
 
-1. **Clone or download** the project folder  
+1. **Clone or download** the project folder
 2. Open a terminal and run:
    ```bash
    npm install
    npm start
+   ```
