@@ -1,6 +1,11 @@
 import React from "react";
 import "../styles/Footer.css";
-import { FaInstagram, FaYoutube, FaFacebook } from "react-icons/fa6";
+import {
+  FaInstagram,
+  FaYoutube,
+  FaFacebook,
+  FaWhatsapp,
+} from "react-icons/fa6";
 
 function Footer() {
   return (
@@ -31,6 +36,14 @@ function Footer() {
             aria-label="Facebook"
           >
             <FaFacebook />
+          </a>
+          <a
+            href="https://whatsapp.com/channel/0029VbBfQAAFnSz85tomSt0U"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Whatsapp"
+          >
+            <FaWhatsapp />
           </a>
         </div>
 

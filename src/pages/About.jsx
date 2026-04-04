@@ -130,9 +130,10 @@ function About() {
         ensures that every student strengthens their foundation inKihon
         (basics), Kata (forms), and Kumite (sparring) while embodying the core
         values of Karate:respect, perseverance, and self-control.
+        <br></br>
         <b>Belt Levels and Kyu Grades</b>
-        White Belt (10th Kyu) – Beginner level, introduction to fundamentals and
-        discipline
+        <br></br>● White Belt (10th Kyu) – Beginner level, introduction to
+        fundamentals and discipline
         <br></br>● Yellow Belt (9th Kyu) – Developing basic techniques and focus
         <br></br>● Orange Belt (8th Kyu) – Enhancing coordination, timing, and
         basic Kata
