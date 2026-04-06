@@ -32,12 +32,12 @@ const branches = [
     contact: "Contact Number: 93601 54261",
     map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.542027958925!2d80.13329950865938!3d13.128173411376784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52635f53176d79%3A0x928e832b58318b5f!2sMKAI%20Karate_Thirumullaivoyal!5e0!3m2!1sen!2sin!4v1773762011062!5m2!1sen!2sin",
   },
-  // {
-  //   name: "Villivakkam, Chennai",
-  //   images: ["/branches/6.JPG", "/branches/6A.JPG"],
-  //   contact: "Contact Number: 91508 64749",
-  //   map: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3885.6938294139973!2d80.20355607507894!3d13.118572187210495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA3JzA2LjkiTiA4MMKwMTInMjIuMSJF!5e0!3m2!1sen!2sin!4v1760605804715!5m2!1sen!2sin",
-  // },
+  {
+    name: "Villivakkam, Chennai",
+    images: ["/branches/6.JPG", "/branches/6A.JPG"],
+    contact: "Contact Number: 91508 64749",
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.6949782288357!2d80.2058389!3d13.118499499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265c0680bb471%3A0xbcb5065b239b26e1!2sMKAI%20Karate_Villivakkam!5e0!3m2!1sen!2sin!4v1775492118445!5m2!1sen!2sin",
+  },
   {
     name: "Ambattur, Chennai",
     images: ["/branches/7.JPG", "/branches/7A.JPG"],

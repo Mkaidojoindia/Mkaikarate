@@ -46,7 +46,7 @@ function Contact() {
             Kolathur, Chennai - 600099.
           </p>
           <p>
-            <strong>Email:</strong> Mkaidojo.india@gmail.com
+            <strong>Email:</strong> mkaidojo.india@gmail.com
           </p>
           <p>
             <strong>Phone:</strong> 96000 41923

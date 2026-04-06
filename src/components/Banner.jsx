@@ -13,10 +13,10 @@ function Banner() {
         {/* Center content */}
         <div className="banner-content">
           <h1 className="banner-title">
-            MEISHIN KARATE ASSOCIATION OF INTERGITY
+            MEISHIN KARATE ASSOCIATION OF INTEGRITY
           </h1>
           <p className="banner-subtitle">
-            <strong>Physical & Mental Development</strong>
+            <strong>Power of Inner strength</strong>
           </p>
 
           <p className="banner-section">

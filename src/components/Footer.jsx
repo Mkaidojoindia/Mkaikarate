@@ -52,7 +52,7 @@ function Footer() {
           <p className="footer-anniversary">
             Marking 15 Years of Outstanding Contribution to Karate
           </p>
-          <p>© 2026 TEAM MKAI_KOLATHUR | All Rights Reserved</p>
+          <p>© 2026 TEAM MKAI KARATE | All Rights Reserved</p>
           <p className="footer-credit">
             Designed & Developed by{" "}
             <a
